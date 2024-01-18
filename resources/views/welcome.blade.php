@@ -64,9 +64,10 @@
                         <p>Flow of Termainal Stock in Peoples Card Centre</p>
                         <br/>
                         <img src="{{ asset('images/BusinessDigram.jpg') }}" alt="Digram">
+                        <br/>
                         <p>Documentation</p>
                         <br/>
-                        <a href="{{ route('docs') }}" class="light-blue-button">Documentation</a>
+                        <a href="/docs" class="light-blue-button">Documentation</a>
                     </div>
                 </div>
 
